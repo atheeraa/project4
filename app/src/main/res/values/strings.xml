@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="app">Soundtracks App</string>
+    <string name="browse">Browse Collection</string>
+    <string name="tlou">The music for the action-adventure survival horror video game The Last of Us, developed by Naughty Dog and published by Sony Computer Entertainment, was composed by musician Gustavo Santaolalla.</string>
+    <string name="hp">The music of the Harry Potter film series was recorded and released in conjunction with the post-production and releases of each of the eight corresponding films. The scores were composed by John Williams, Patrick Doyle, Nicholas Hooper, and Alexandre Desplat.</string>
+    <string name="inception">Inception: Music from the Motion Picture is the soundtrack to the 2010 film of the same name directed by Christopher Nolan, released under Reprise Records on July 13, 2010. Hans Zimmer scored the film, marking his third collaboration with Nolan following Batman Begins and The Dark Knight.</string>
+    <string name="lis">Life Is Strange Soundtrack is a collection of licensed music purchased by DONTNOD Entertainment, used either to promote the game or featured throughout the five episode series. An official playlist on Spotify and YouTube was created by the game’s developers.</string>
+    <string name="interstellar">Interstellar: Original Motion Picture Soundtrack is the soundtrack album to the 2014 film Interstellar directed by Christopher Nolan. The film score is composed by Hans Zimmer who previously scored Nolan\'s Batman film trilogy and Inception.</string>
+</resources>
